@@ -1,0 +1,375 @@
+body {
+  background-image: url(background1.jpg);
+  background-size: cover;
+  background-attachment: sticky;
+  background-repeat: no-repeat;
+}
+.try a li:hover {
+  background: red;
+}
+
+.navbar {
+  background-color: black;
+  border-radius: 30px;
+}
+.navbar ul {
+  overflow: auto;
+}
+.menu {
+  float: right;
+  list-style: none;
+  margin: 13px 20px;
+  padding-top: 7px;
+  font-size: 130%;
+}
+.navbar li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+  text-align: left;
+}
+.navbar li a:hover {
+  color: red;
+}
+.navbar input {
+  border: 2px solid black;
+  border-radius: 14px;
+  padding: 3px 17px;
+  width: 129px;
+}
+.club1 {
+  float: left;
+  list-style: none;
+}
+.club2 {
+  color: aliceblue;
+  float: left;
+  list-style: none;
+  padding-top: 22px;
+  font-family: sans-serif;
+}
+.sportsimg {
+  /* border-radius: 50px; */
+  border-width: 10px;
+  border-style: double;
+  border-color: black;
+}
+.list {
+  list-style: none;
+  text-decoration: none;
+}
+.clubs {
+  font-size: xx-large;
+}
+.menu1 {
+  margin-left: 10px;
+  margin-top: 10px;
+  display: block;
+}
+#f {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#k {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#b {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#v {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#c {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#s {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#w {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#ba {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+.h {
+  color: yellow;
+  /* background-color: black; */
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#j {
+  color: yellow;
+  /* background-color: black; */
+  list-style: none;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#d {
+  color: yellow;
+  /* background-color: black; */
+  list-style: none;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 55px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#h {
+  color: yellow;
+  /* background-color: black; */
+  list-style: none;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 42px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+
+.try a {
+  background: black;
+}
+.try a:hover {
+  background: red;
+}
+
+.ui {
+  background: red;
+}
+.try summary {
+  color: aliceblue;
+  background-color: black;
+  border-radius: 50px;
+  font-size: 25px;
+  /* width: 450px;
+height: 60px; */
+  text-align: center;
+  margin-left: 425 px;
+}
+
+.try summary:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.bg-img {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(istockphoto-1361421117-170667a.jpg);
+  padding: 0 0 0 0;
+}
+.logo {
+  padding-left: 50px;
+  cursor: pointer;
+}
+.slideshow {
+  /* margin-top: 50px;
+margin-right: 700px; */
+  width: 250px;
+  height: 250px;
+  background-image: url(/10779723.jpg);
+  background-size: 100% 100%;
+  animation: slideshow 30s infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+  box-shadow: black 200px;
+  border-radius: 1200px;
+  border: 5px solid black;
+  border-style: double;
+}
+
+@keyframes slideshow {
+  11% {
+    background-image: url(/badminton.jpg);
+  }
+
+  22% {
+    background-image: url(/Basketball.jpg);
+  }
+  33% {
+    background-image: url(/Cricket.jpg);
+  }
+  44% {
+    background-image: url(/Discuss\ throw.jpeg);
+  }
+  55% {
+    background-image: url(/Football.jpg);
+  }
+  66% {
+    background-image: url(/hockey.jpg);
+  }
+  77% {
+    background-image: url(/Javelin.jpg);
+  }
+  88% {
+    background-image: url(/Kabaddi.jpg);
+  }
+  100% {
+    background-image: url(/Volleyball.jpeg);
+  }
+}
+.A {
+  color: yellow;
+  background-color: black;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 300px;
+  height: 65px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+  font-size: 48px;
+  margin-left: 475px;
+}
+
+.navbar1 ul {
+  overflow: auto;
+}
+.navbar1 ul .slideshow {
+  /* float: left; */
+  list-style: none;
+  padding-right: 50px;
+  /* display: inline-block; */
+  /* padding-bottom: 150px; */
+}
+.slideshow {
+  display: inline-block;
+}
+.navbar1 ul .menu2 {
+  text-decoration: none;
+  font-size: 32px;
+  padding-top: 150px;
+  /* background-color:darkturquoise; */
+  /* list-style: none; */
+  padding-top: 15px;
+  /* border-width: 450px; */
+  background-size: 100% 100%;
+  display: inline-block;
+}
+.navbar1 ul .menu2 a {
+  text-decoration: none;
+  color: black;
+}
+.description {
+  background-color: antiquewhite;
+  border-radius: 50px;
+  padding-left: 30px;
+  border-left-width: 3500px;
+  display: block;
+}
+
+.Vision {
+  font-size: 35px;
+  text-align: center;
+  background-color: antiquewhite;
+  border-radius: 30px;
+}
+#Mrk {
+  background-color: black;
+  border: 2px solid red;
+}
+#Mrk a img {
+  opacity: 1;
+}
+#Mrk a img:hover {
+  opacity: 0.5;
+}

@@ -1,0 +1,74 @@
+body {
+  background-image: url(istockphoto-1361421117-170667a.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.try a li:hover {
+  background: red;
+}
+
+.center {
+  margin: auto;
+  position: relative;
+  top: 200px;
+  left: 250px;
+}
+.center h1 {
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  width: 900px;
+  font-weight: 1000px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.center h2 {
+  color: white;
+  background: black;
+  border-radius: 20px;
+  font-size: 58px;
+  font-weight: bold;
+  width: 885px;
+  text-align: center;
+  height: 80px;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+.buttons {
+  margin: 28px 0px 0px 238px;
+}
+.buttons button {
+  height: 56px;
+  width: 196px;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+  background: red;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 25px;
+  transition: 0.4s;
+  margin-right: 28px;
+}
+
+.buttons button:hover {
+  padding-left: 15px;
+  color: black;
+  box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.47);
+}
+
+#sportsimg :hover {
+  box-shadow: 0 0 20px 30px rgba(255, 0, 0, 0.808);
+}
+
+#down {
+  margin: 367px 0px 0px 0px;
+}
+
+#Mrk {
+  background: white;
+}

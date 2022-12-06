@@ -1,0 +1,137 @@
+body {
+  background-image: url("con_back.jpg");
+  background-size: cover;
+}
+
+* {
+  box-sizing: border-box;
+}
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type="email"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type="submit"] {
+  background-color: #04aa6d;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 14px;
+  background-color: #f2f2f2;
+  margin: 23px 51px 85px 52px;
+  padding: 68px 68px 45px 93px;
+}
+
+.main {
+  padding: 85px 0px 0px 0px;
+}
+
+.con1 {
+  text-align: center;
+}
+
+.head1 {
+  font-size: 70px;
+  margin: 0px 481px 0px 481px;
+  padding: 0px 0px 0px 0px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.422);
+  background: linear-gradient(45deg, red, yellow);
+  border-radius: 13px;
+}
+/* -------------- inside container-------------- */
+.side1 {
+  margin: 17px 0px 72px -26px;
+  padding: 0px 0px 0px 0px;
+}
+
+.side2 {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+/* ------------- inside side1 ------------- */
+.place1 {
+  margin: -29px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.place2 {
+  margin: 49px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.place3 {
+  margin: 49px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+/* ------------ icons ------------ */
+
+.log1 {
+  height: 40px;
+  width: 40px;
+}
+.log2 {
+  height: 30px;
+  width: 30px;
+}
+.log3 {
+  height: 30px;
+  width: 45px;
+}
+
+.det1 {
+  font-size: 25px;
+  color: red;
+  margin: 2px 0px 0px 4px;
+}
+.det2 {
+  font-size: 25px;
+  color: red;
+  margin: 2px 0px 0px 4px;
+}
+.det3 {
+  font-size: 25px;
+  color: red;
+}
+
+.in {
+  display: inline-flex;
+}
+.txt {
+  margin: 3px 0px 0px 42px;
+  padding: 0px 0px 0px 0px;
+  font-size: 20px;
+}
+
+/* ---------txt big-------- */
+
+.big1 {
+  font-size: 20px;
+}

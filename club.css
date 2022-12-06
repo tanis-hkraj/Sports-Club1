@@ -1,0 +1,189 @@
+.menu1 {
+  margin-left: 10px;
+  margin-top: 10px;
+  display: block;
+  float: right;
+
+}
+#f {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#k {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#b {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#v {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#c {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#s {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#w {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#ba {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+.h {
+  color: yellow;
+  border-radius: 30px;
+  list-style: none;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#j {
+  color: yellow;
+  list-style: none;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#d {
+  color: yellow;
+  list-style: none;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 55px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+#h {
+  color: yellow;
+  list-style: none;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  width: 250px;
+  height: 42px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+}
+
+.try a {
+  background: black;
+}
+.try a:hover {
+  background: red;
+}
+
+
+.ui{
+    background: red;
+}
+.try summary{
+    color:aliceblue;
+background-color: black;
+font-size: 38px;
+width: 100%;
+height: 50px;
+text-align: center;
+margin-left: 425
+px;}
+
+.try summary:hover{
+    color: red;
+    cursor: pointer;
+    
+}
+#Mrk a img:hover{
+  opacity: 0.5;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, .2);
+}
+#Mrk a img{
+  transition: 0.4s;
+}
+#Mrk{
+  margin: 0px 0px 0px 0px;
+  padding: 22px 0px 0px 0px;
+}

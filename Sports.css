@@ -1,0 +1,103 @@
+.slideshow{
+   
+    width: 100%;
+    height: 500px;
+    background-image: url(football\ club.jpg);
+    background-size: 100% 100%;
+    
+    background-position:center;
+    background-repeat: no-repeat;
+    animation: slideshow 45s infinite;
+    animation-direction:alternate-reverse;
+    animation-timing-function:linear;
+    /* box-shadow: black 200px; */
+    
+}
+@keyframes slideshow{
+    11% {
+        background-image: url(football\ club.jpg);
+    }
+
+    22% {
+        background-image: url(Kabaddiclub.jpg);
+    }
+    33%{
+        background-image: url(cricket\ club.jpg);
+    }
+    44%{
+        background-image: url(discuss\ club.jpg);
+    }
+    55%{
+        background-image: url(basket\ club.jpg);
+    }
+    66%{
+        background-image: url(hockey\ club.jpg);
+    }
+    77%
+    {
+        background-image: url(javelin\ club.jpg);
+    }
+    88%{
+        background-image: url(wrestling\ club.jpg);
+    }
+    100%{
+        background-image: url(Volleyball\ Club.jpg);
+    }}
+    .A{
+        color: yellow;
+        background-color: black; 
+        /* border-radius: 30px; */
+        font-size: 25px;
+        font-family: "Times New Roman", Times, serif;
+        width: 100%;
+        height: 65px;
+        text-align: center;
+        text-decoration: none;
+        /* padding-top: 9px; */
+        font-size: 48px;
+        /* margin-left: 475px; */
+    }
+    .menu2{
+        
+        font-size: 32px;
+        
+        /* padding-top: 1px; */
+        list-style: square;
+        
+    }
+    .description{
+        background-color:skyblue;
+        border-radius: 25px;
+        font-size: 25px;
+        margin-left: 294px;
+        padding: 73px;
+        
+    }
+
+    .footimg{
+        
+        float: left;
+        margin: 59px 0px 0px 11px;
+        padding: 0px 0px 0px 0px;
+    }
+    
+    
+    ol{
+        list-style:disc;
+        /* font-size: 50px;
+        font-weight: 1000; */
+    
+        
+    }
+    .h{
+        color: aqua;
+        text-align: center;
+        width: 100%;
+        height: 60px;
+        background-color: black;
+        font-size: 50px;
+        font-weight: 1000;
+        border-radius: 0;
+        margin: 0px 0px 86px 7px;
+        padding: 0px 0px 0px 0px;
+    }

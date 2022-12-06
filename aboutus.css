@@ -1,0 +1,109 @@
+.bg-img {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(istockphoto-1361421117-170667a.jpg);
+  padding: 0 0 0 0;
+}
+.logo {
+  padding-left: 50px;
+  cursor: pointer;
+}
+.slideshow {
+  width: 250px;
+  height: 250px;
+  background-image: url(10779723.jpg);
+  background-size: 100% 100%;
+  animation: slideshow 30s infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+  box-shadow: black 200px;
+  border-radius: 20px;
+  float: left;
+}
+
+@keyframes slideshow {
+  11% {
+    background-image: url(badminton.jpg);
+  }
+
+  22% {
+    background-image: url(Basketball.jpg);
+  }
+  33% {
+    background-image: url(Cricket.jpg);
+  }
+  44% {
+    background-image: url(Discuss\ throw.jpeg);
+  }
+  55% {
+    background-image: url(Football.jpg);
+  }
+  66% {
+    background-image: url(hockey.jpg);
+  }
+  77% {
+    background-image: url(Javelin.jpg);
+  }
+  88% {
+    background-image: url(Kabaddi.jpg);
+  }
+  100% {
+    background-image: url(Volleyball.jpeg);
+  }
+}
+.A {
+  color: yellow;
+  background-color: black;
+  border-radius: 30px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+  font-size: 48px;
+}
+
+.navbar1 ul {
+  overflow: auto;
+}
+.navbar1 ul .slideshow {
+  list-style: none;
+  padding-right: 50px;
+}
+.slideshow {
+  display: inline-block;
+}
+ul .menu2 {
+  text-decoration: none;
+  font-size: 32px;
+  padding-top: 150px;
+  padding-top: 15px;
+  background-size: 100% 100%;
+  display: inline-block;
+}
+.navbar1 ul .menu2 a {
+  text-decoration: none;
+  color: black;
+}
+.description {
+  background-color: skyblue;
+  border-radius: 25px;
+  padding-left: 30px;
+  font-size: 36px;
+  margin-left: 275px;
+}
+
+.Vision {
+  font-size: 35px;
+  text-align: center;
+  background-color: skyblue;
+  border-radius: 30px;
+  margin: 0px 0px 0px 0px;
+}
+
+.gap {
+  border: 2px solid red;
+  margin: 13px;
+  padding: 13px;
+}
